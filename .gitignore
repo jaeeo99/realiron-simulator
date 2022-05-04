@@ -1,3 +1,6 @@
+# VS Code config
+.vscode
+
 # Logs
 logs
 *.log
@@ -81,6 +84,9 @@ typings/
 # Nuxt.js build / generate output
 .nuxt
 dist
+
+# Electron.js build output
+out
 
 # Gatsby files
 .cache/

@@ -1,0 +1,12 @@
+appId: com.realiron.simulator
+productName: realiron-simulator
+copyright: Copyright © 2022 Jaeeo
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
